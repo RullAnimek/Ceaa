@@ -519,7 +519,6 @@ ${mundur}
  ×⟩ ${prefix}metalg
  ×⟩ ${prefix}metalg${petik}
 `
- [     S    L     I   M   E.   B  O  T   ]
 }
 
 exports.donate = (pushname, ownerNumber) => {
